@@ -1,0 +1,22 @@
+body{
+    background-color: antiquewhite;
+    width: 1000px;
+    margin: auto;
+    border: groove ;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+h1{
+    text-align: center;
+    color: rgb(0, 102, 255);
+}
+h2{
+    color: black;
+    text-decoration: double;
+}
+
+h2{
+    text-align: start;
+}
+
